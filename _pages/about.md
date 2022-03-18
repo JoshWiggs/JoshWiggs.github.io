@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Joshua Wiggs"
+title: "Joshua Wiggs"
 excerpt: "About me"
 author_profile: true
 redirect_from:
