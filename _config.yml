@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Joshua Wiggs"
 title_separator          : "-"
 name                     : &name "Joshua Wiggs"
 description              : &description "PhD student at Lancaster University"
