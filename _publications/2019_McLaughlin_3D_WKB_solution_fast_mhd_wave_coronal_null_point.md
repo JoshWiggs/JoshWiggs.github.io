@@ -12,4 +12,4 @@ The propagation of the fast magnetoacoustic wave is studied within a magnetic to
 
 [Download paper here](https://doi.org/10.1093/mnras/stz085)
 
-Recommended citation: James A McLaughlin, Jonathan O Thurgood, Gert J J Botha, Joshua A Wiggs, 3D WKB solution for fast magnetoacoustic wave behaviour within a separatrix dome containing a coronal null point, <i>Monthly Notices of the Royal Astronomical Society</i>, Volume 484, Issue 1, March 2019, Pages 1390–1400, https://doi.org/10.1093/mnras/stz085
+Full citation: James A McLaughlin, Jonathan O Thurgood, Gert J J Botha, Joshua A Wiggs, 3D WKB solution for fast magnetoacoustic wave behaviour within a separatrix dome containing a coronal null point, <i>Monthly Notices of the Royal Astronomical Society</i>, Volume 484, Issue 1, March 2019, Pages 1390–1400, https://doi.org/10.1093/mnras/stz085

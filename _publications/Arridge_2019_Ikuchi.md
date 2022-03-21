@@ -12,4 +12,4 @@ Ikuchi is an HTML/Javascript application which uses https://threejs.org/ to rend
 
 [Download here](https://doi.org/10.5281/zenodo.3451443)
 
-Recommended citation: Arridge, Chris, & Wiggs, Josh. (2019). Ikuchi: 3D Views of Solar System Magnetospheres (v0.6b.1). <i>Zenodo</i>. https://doi.org/10.5281/zenodo.3451443
+Full citation: Arridge, Chris, & Wiggs, Josh. (2019). Ikuchi: 3D Views of Solar System Magnetospheres (v0.6b.1). <i>Zenodo</i>. https://doi.org/10.5281/zenodo.3451443
