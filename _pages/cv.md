@@ -11,20 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2018- **PhD. Physics**, Plasma Transport at Jupiter, __Lancaster University, Bailrigg__.
+* 2013-17 **Master of Physics (Hons) Physics with Astrophysics**, _Northumbria University, Newcastle Upon Tyne. First Class._
 
-Work experience
+
+Professional Roles
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017-18 **Ecommerce Manager**, _UrbanMoto Ltd, Lincoln_
 
 Skills
 ======
@@ -40,6 +33,9 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Presentations
+======
 
 Teaching
 ======
