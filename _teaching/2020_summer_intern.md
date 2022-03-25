@@ -7,9 +7,9 @@ venue: "Lancaster University, Physics Department"
 date: 2020-08-01
 location: "Lancaster, UK"
 ---
-==================
-Project Description
-===================
+
+### Project Description
+
 The project will be to work on the development, testing and benchmarking of a computational hybrid kinetic-ion/fluid-electron plasma model of Jupiter's magnetosphere. This is part of a larger project and the intern will participate in achieving the following aims:
 * The implementation and validation of both numerical and analytical plasma pressure solvers.
 * Verifying the correct operation and physical accuracy of the model; e.g., does it conserve energy, do waves propagate correctly, is mass conserved.
@@ -17,7 +17,6 @@ The project will be to work on the development, testing and benchmarking of a co
 
 The intern will be responsible for setting up and running the model, analysing and critically-interpreting the results.
 
-====================================
-Opportunities for Skills Development
-====================================
+### Opportunities for Skills Development
+
 The intern will develop skills in programming skills in Python (and possibly also C++), high performance computing and data analysis. Specific knowledge will be developed in space plasma physics and in cutting-edge computational simulations.
