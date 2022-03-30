@@ -8,11 +8,4 @@ date: 2020-08-01
 location: "Lancaster, UK"
 ---
 
-### Project Description
-
-The project will be to work on the development, testing and benchmarking of a computational hybrid kinetic-ion/fluid-electron plasma model of Jupiter's magnetosphere. This is part of a larger project and the intern will participate in achieving the following aims:
-* The implementation and validation of both numerical and analytical plasma pressure solvers.
-* Verifying the correct operation and physical accuracy of the model; e.g., does it conserve energy, do waves propagate correctly, is mass conserved.
-* Determining the computational efficiency of the model; e.g., how do the various 'settings' in the model (e.g., resolution) affect run-time and efficiency.
-
-The intern will be responsible for setting up and running the model, analysing and critically-interpreting the results.
+A 6 week long summer project undertaken by a second year undergraduate student at Lancaster University and jointly supervised my myself and [Chris Arridge](https://www.lancaster.ac.uk/physics/about-us/people/chris-arridge). Over the course of the project, the student developed their understanding of general plasma physics and numerical simulation techniques, before being given access to the complete Python codebase of JERICHO (a kinetic-ion, fluid-electron hybrid plasma model for the outer planets). Work was performed using the simulation code to verify the outputs from it reflected those observed in real plasmas, this was done by comparing the drift motions of particles in a variety of set-ups against their analytical solutions. Additionally, analysis of the conservations of fundamental physical properties was performed on the models boundaries to ensure that these were behaving as expected. The project culminated in the student prototyping and implementing a pressure solver that could be incorporated into JERICHO's codebase.
