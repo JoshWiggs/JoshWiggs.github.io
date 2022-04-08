@@ -11,22 +11,27 @@ redirect_from:
 
 Education
 ======
-* 2018- **PhD. Physics**, Plasma Transport at Jupiter, __Lancaster University, Bailrigg__.
+* 2018- **PhD. Physics**, Plasma Transport at Jupiter, _Lancaster University, Bailrigg_.
 * 2013-17 **Master of Physics (Hons) Physics with Astrophysics**, _Northumbria University, Newcastle Upon Tyne. First Class._
-
+* -2013 **UK educated up to A levels**, Specialising in Physics, Maths and IT, _Lincoln, UK_
 
 Professional Roles
 ======
 * 2017-18 **Ecommerce Manager**, _UrbanMoto Ltd, Lincoln_
+  I was responsible for the development and operation of ecommerce activities across all platforms. This was achieved by leading and coordinating ecommerce development projects with both internal and external agencies, ensuring the general health of all ecommerce related systems and the management of staff who operate these systems. I successfully launched new product lines, redeveloped existing ecommerce platforms and integrated new systems into the existing ecosystem to improve staff productivity, sales revenue and customer satisfaction.
 
-Skills
+Research Projects
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<ul>{% for post in site.projects %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+Personal and Technical Skills
+======
+* **Programming**: Python, C++, IDL, MATLAB, Javascript, CSS3 and HTML5.
+* **Libraries**: Numpy, Matplotlib, Scipy, Eigen3, Ceral
+* **Software**: LaTeX, MPI, Simulink, Microsoft Office Suite and Adobe Creative Suite.
+* **General Skills and Attributes**: Work well independently and as part of a team, strong mathematical skills, good oral and written communication skills, scientific report production, excellent time management and organisational skills, good interpersonal skills, experienced presenter to a range of audiences.
 
 Publications
 ======
