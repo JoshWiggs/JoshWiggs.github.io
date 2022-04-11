@@ -23,7 +23,7 @@ Professional Roles
 
 Research Projects
 ======
-<ul>{% for post in site.projects %}
+<ul>{% for post in site.projects | reverse %}
   {% include archive-single-talk-cv.html %}
 {% endfor %}</ul>
 
