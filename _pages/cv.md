@@ -18,6 +18,7 @@ Education
 Professional Roles
 ======
 * 2017-18 **Ecommerce Manager**, _UrbanMoto Ltd, Lincoln_
+
   I was responsible for the development and operation of ecommerce activities across all platforms. This was achieved by leading and coordinating ecommerce development projects with both internal and external agencies, ensuring the general health of all ecommerce related systems and the management of staff who operate these systems. I successfully launched new product lines, redeveloped existing ecommerce platforms and integrated new systems into the existing ecosystem to improve staff productivity, sales revenue and customer satisfaction.
 
 Research Projects
