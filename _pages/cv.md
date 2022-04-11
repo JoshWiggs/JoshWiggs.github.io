@@ -23,7 +23,7 @@ Professional Roles
 Research Projects
 ======
 <ul>{% for post in site.projects %}
-  {% include archive-single-cv.html %}
+  {% include archive-single-talk-cv.html %}
 {% endfor %}</ul>
 
 Personal and Technical Skills
