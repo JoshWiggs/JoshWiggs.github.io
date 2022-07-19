@@ -1,0 +1,13 @@
+---
+title: "Examining Interchange at the Outer Planets using JERICHO: a Kinetic-Ion, Fluid-Electron Hybrid Plasma Model"
+collection: talks
+type: "Talk"
+permalink: /talks/2022-07-13_MOP_presentation
+venue: "Magnetospheres of Outer Planets Meeting 2022"
+date: 2022-05-27
+location: "Liège, Belgium"
+---
+
+ Plasma is injected into the magnetospheres of both gas giants in the outer planets from sources located on satellites orbiting them, Io at Jupiter and Enceladus at Saturn. Material ejected from these moons forms tori surrounding their planetary bodies at distances corresponding to the source's orbit, however these regions are not continually expanding and therefore must have loss mechanisms associated with them. The processes responsible for loss in the two systems are ejection as energetic neutrals and by bulk transport into sink regions in the outer magnetosphere, though the proportion of material removed by these varies. The physical process generally considered to be responsible for bulk transport is the centrifugal-interchange instability, analogous to the Rayleigh-Taylor instability, but with centrifugal force replacing gravity. This mechanism allows magnetic flux tubes containing hot, tenuous plasma to exchange places with tubes containing cool, dense plasma, moving material from the inner to outer magnetosphere whilst returning magnetic flux to the inner magnetosphere. In order to examine the transport we have developed a full hybrid kinetic-ion, fluid-electron plasma model in 2.5-dimensions, JERICHO. The technique of hybrid modelling allows for probing of plasma motions from the scale of planetary-radii down to the ion-inertial length scale, considering constituent ion species kinetically as charged particles and forming the electrons into a single magnetised fluid continuum. This allows for insights into particle motions on spatial scales below the size of the magnetic flux tubes. Results from this model will allow for the examination of bulk transport on spatial scales not currently accessible with state-of-the-art models, improving understanding of mechanisms responsible for moving particles between flux tubes and from the inner to the outer magnetosphere. We have applied JERICHO to both the Jovian and Saturnian systems and this presentation will examine the distribution of ions, current densities and electromagnetic field perturbations, analysing how they evolve both spatially and temporally. This will allow for insights into the radial motions of plasma directed radially outwards, as well as the corresponding response in the associated fields.
+
+[Download slides here](/files/Wiggs_MOP22_Interchange_Instability_with_JERICHO.pdf)
