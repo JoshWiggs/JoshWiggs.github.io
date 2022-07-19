@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2022-07-13_MOP_presentation
 venue: "Magnetospheres of Outer Planets Meeting 2022"
-date: 2022-05-27
+date: 2022-07-13
 location: "Liège, Belgium"
 ---
 
